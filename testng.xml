@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="Axis.TestNG.InvokeEdge"/>
+      <class name="Axis.TestNG.PriorityTesting"/>
+      <class name="Axis.TestNG.DependsOnMethos"/>
+      <class name="Axis.TestNG.HardAssertEg"/>
+      <class name="Axis.TestNG.EnableFalse"/>
+      <class name="Axis.TestNG.AppTest"/>
+      <class name="Axis.TestNG.NewTest"/>
+      <class name="Axis.TestNG.Grouping"/>
+      <class name="Axis.TestNG.SoftAssertEg"/>
+      <class name="Axis.TestNG.InvokeChromeBroser"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
